@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="public/assets/images/1icon.png" />
+## [SECOND WEBSITE (OFFICAL AND UNBLOCKED)](https://schoolisfunxyz.vercel.app/) 
+
   <h1>SchoolisFun v2</h1>
 </div>
 A website with tons of games, apps, built-in proxy, emulator, and more fun goodies. If you fork this repository, please consider giving it a star ⭐!
@@ -10,7 +10,5 @@ A website with tons of games, apps, built-in proxy, emulator, and more fun goodi
 ## Support
 Most issues can be answered by [opening an issue](https://github.com/bas1csyntax/schoolisfunxyz/issues).
 
-
-## Contributors
-
-bas1csyntax (OWNER) & Ephixity (Emotional Support)
+## 2ND Unblocked Website (OFFICIAL)
+Is [new.schoolisfun.xyz](https://new.schoolisfun.xyz/) or [schoolisfun.xyz](https://schoolisfun.xyz/)? Worry not, as this is the official second page of SchoolisFun and is updated frequently too! [SECOND WEBSITE (OFFICAL AND UNBLOCKED)](https://schoolisfunxyz.vercel.app/) 
