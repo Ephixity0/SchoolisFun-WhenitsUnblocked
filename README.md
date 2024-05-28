@@ -11,4 +11,4 @@ A website with tons of games, apps, built-in proxy, emulator, and more fun goodi
 Most issues can be answered by [opening an issue](https://github.com/bas1csyntax/schoolisfunxyz/issues).
 
 ## 2ND Unblocked Website (OFFICIAL)
-Is [new.schoolisfun.xyz](https://new.schoolisfun.xyz/) or [schoolisfun.xyz](https://schoolisfun.xyz/)? Worry not, as this is the official second page of SchoolisFun and is updated frequently too! [SECOND WEBSITE (OFFICAL AND UNBLOCKED)](https://schoolisfunxyz.vercel.app/) 
+Is [new.schoolisfun.xyz](https://new.schoolisfun.xyz/) or [schoolisfun.xyz](https://schoolisfun.xyz/) blocked? Worry not, as this is the official second page of SchoolisFun and is updated frequently too! [SECOND WEBSITE (OFFICAL AND UNBLOCKED)](https://schoolisfunxyz.vercel.app/) 
